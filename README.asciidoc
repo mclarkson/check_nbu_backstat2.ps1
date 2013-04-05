@@ -1,4 +1,9 @@
-check_nbu_backstat2.ps1
-=======================
-
 NetBackup latest backup status check by Policy name
+---------------------------------------------------
+
+*** This script is for MS-Windows environment ***
+
+This PowerShell script works with NSClient++ on MS-Windows environment.
+
+For more info see http://exchange.nagios.org/directory/Plugins/Backup-and-Recovery/NetBackup/NetBackup-latest-backup-status-check-by-Policy-name/details[nagios exchange].
+
